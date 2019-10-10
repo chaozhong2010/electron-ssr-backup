@@ -96,3 +96,5 @@ npm run mocha
 npm run lint
 
 ```
+## install
+sudo dpkg -i  electron-ssr-0.2.6.deb
